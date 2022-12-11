@@ -31,7 +31,7 @@
         "@types/hashids": "^1.0.30",
         "@types/node": "^12.7.12",
         "@types/valid-url": "^1.0.2",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "hashids": "^2.2.1",
         "knex": "^0.20.8",
         "sqlite3": "^4.1.1",
